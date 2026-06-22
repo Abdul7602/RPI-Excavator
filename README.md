@@ -1,8 +1,6 @@
 # RPi- Digger
 **Raspberry Pi5 -Powered Excavator**
 
-![image](/Attachments/image.jpeg)
-
 
 ### Excavator Control System
 
